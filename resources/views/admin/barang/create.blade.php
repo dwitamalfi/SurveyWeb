@@ -9,7 +9,7 @@
 
             <!-- /.box-header -->
             <div class="box-body">
-               <form role="form" action="{{url('/Admin/Barang/Store/')}}" method="POST" enctype="multipart/form-data">
+               <form role="form" action="{{url('/admin/barang/store/')}}" method="POST" enctype="multipart/form-data">
                 {{csrf_field()}}
                 <!-- text input -->
                 <div class="form-group">
