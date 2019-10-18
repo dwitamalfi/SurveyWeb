@@ -14,7 +14,7 @@
                 <!-- text input -->
                 <div class="form-group">
                   <label>Nama Barang</label>
-                  <input name="nama_barang" type="text" class="form-control" placeholder="Ketikkan nama admin..">
+                  <input name="nama_barang" type="text" class="form-control" placeholder="Ketikkan nama barang..">
                 </div>
                  <div class="form-group">
                   <label>Tanggal Update</label>
@@ -22,7 +22,7 @@
                 </div>
                 <div class="form-group">
                   <label>Harga</label>
-                  <input name="harga" type="text" class="form-control" placeholder="Ketikkan nama admin..">
+                  <input name="harga" type="text" class="form-control" placeholder="Ketikkan harga barang..">
                 </div>
                 
                 <div class="box-footer">
